@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { firebaseApp } from './services/firebase/config';
-import { App } from './App';
+import { App } from './routes/App';
 
 firebaseApp();
 
